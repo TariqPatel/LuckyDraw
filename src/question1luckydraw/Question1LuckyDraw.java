@@ -12,7 +12,7 @@ import java.lang.String;
  *
  * @author Tariq
  */
-//MOGAMAT TARIQ PATEL 12-000833
+//MOGAMAT TARIQ PATEL
 public class Question1LuckyDraw {
 
     /**
